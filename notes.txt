@@ -1,0 +1,7 @@
+- add last section at bottom
+    - create clickable links for each picture
+- add footer
+    - include hours, agency address, map link, contact us button, etc.
+- add bulma styling to header
+- complete application form
+- complete styling requirements with bulmaß
