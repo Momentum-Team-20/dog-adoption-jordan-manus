@@ -4,4 +4,6 @@
     - include hours, agency address, map link, contact us button, etc.
 - add bulma styling to header
 - complete application form
-- complete styling requirements with bulmaß
+- complete styling requirements with bulma
+- add hambuger menu to upper right corner
+    - about us, contact us, application Page
