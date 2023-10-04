@@ -1,0 +1,26 @@
+mark {
+    background-color: aqua;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+div {
+    max-width: 30%;
+    padding: 5px;
+    /* display: flex; */
+    /* flex-flow: column wrap; */
+    /* align-content: flex-start; */
+}
+
+div figcaption {
+    padding: 5px;
+    padding-bottom: 5px;
+}
+
+img {
+    padding-top: 0%;
+    /* width: 30%;
+    height: 30%; */
+}
+
+
