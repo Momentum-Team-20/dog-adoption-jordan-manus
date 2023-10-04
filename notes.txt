@@ -1,9 +1,7 @@
-- add last section at bottom
-    - create clickable links for each picture
-- add footer
-    - include hours, agency address, map link, contact us button, etc.
-- add bulma styling to header
+- center footer
+    - move contact us button to right side
 - complete application form
 - complete styling requirements with bulma
 - add hambuger menu to upper right corner
     - about us, contact us, application Page
+
