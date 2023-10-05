@@ -8,7 +8,7 @@ div {
     padding: 5px;
 }
 
-.box1, .box2, .box3{
+.box{
     position: relative;
     display: flex;
     background-color: rgb(132, 52, 156, .5);
