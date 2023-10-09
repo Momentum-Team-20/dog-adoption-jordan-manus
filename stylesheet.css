@@ -1,3 +1,11 @@
+/* Resets styles for each browser */
+body, header, nav, main, footer, img, h1, h3, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  /* styles the tags under each puppy */
 p {
     border-radius: 5px;
     padding: 5px;
@@ -8,12 +16,14 @@ div {
     padding: 5px;
 }
 
+/* styles the donate and volunteer boxes */
 .box{
     position: relative;
     display: flex;
     background-color: rgb(132, 52, 156, .5);
 }
 
+/* styles boxes at bottom of page */
 .donate, .volunteer, .location{
     color: white;
     position: absolute;
@@ -23,7 +33,13 @@ div {
     transform: translate(-50%, -50%);
 }
 
+/* Styles embedded map at bottom */
 iframe {
-    height: 100%;
+    height: 93%;
+}
+
+.box1 {
+    position: relative;
+    display: flex;
 }
 
